@@ -1,0 +1,2 @@
+# HibernatePractice
+All Hibernate Concepts.
